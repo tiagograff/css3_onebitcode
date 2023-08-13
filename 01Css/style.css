@@ -1,0 +1,29 @@
+h1 {
+    color: purple;
+    font-size: 50px;
+    background-color: grey;
+    border-color: yellow;
+    border-width: 5px;
+    border-style: solid;
+    /* border: width, style, color */
+}
+
+li{
+    color: green;
+}
+body{
+    background-image: url("https://images.alphacoders.com/895/895971.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* seletores */
+
+.moon{
+    color:blue
+}
+
+#europa-text{
+    font-size: 10px;
+    color: blueviolet;
+}
